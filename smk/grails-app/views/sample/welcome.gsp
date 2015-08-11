@@ -5,7 +5,7 @@
 </head>
 <body>
   <div class="body">
-		Welcome to Sample Grails App  
+		!!!! Hai Welcome to Sample Grails App !!!!!!! 
   </div>
 </body>
 </html>
